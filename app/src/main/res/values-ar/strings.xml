@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الأسهم هوك</string>
+    <string name="detail_view">عرض التفاصيل</string>
+    <string name="action_example">العمل سبيل المثال</string>
+
+    <string name="action_settings">إعدادات</string>
+    <string name="action_change_units">وحدات التغيير</string>
+    <string name="symbol_search">رمز البحث</string>
+    <string name="content_test">بحث عن الأوراق المالية رمز</string>
+    <string name="input_hint">FB</string>
+    <string name="input_prefill"></string>
+    <string name="network_toast">اه اوه! هذا التطبيق يتطلب اتصال بالإنترنت</string>
+    <string name="stock_saved">يتم حفظ هذه الأسهم بالفعل!</string>
+    <string name="low">رسم القيم المنخفضة</string>
+    <string name="high">رسم القيم العالية</string>
+    <string name="open">رسم القيم المفتوحة</string>
+    <string name="close">رسم قيم قريبة</string>
+
+    <string name="builder_title">تصوير X محور</string>
+    <string name="okay">حسنا</string>
+    <string name="graph">الرسم البياني تصور قيم الأسهم</string>
+
+</resources>

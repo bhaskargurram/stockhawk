@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Stock Hawk</string>
+    <string name="detail_view">Detail View</string>
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_change_units">Change Units</string>
+    <string name="symbol_search">Symbol Search</string>
+    <string name="content_test">Search for a Stock Symbol</string>
+    <string name="input_hint">FB</string>
+    <string name="input_prefill"></string>
+    <string name="network_toast">Uh-oh! This app requires an internet connection</string>
+    <string name="stock_saved">This stock is already saved!</string>
+    <string name="low">Plot low values</string>
+    <string name="high">Plot high values</string>
+    <string name="open">Plot open values</string>
+    <string name="close">Plot close values</string>
+    <string name="builder_title">X axis depictions</string>
+    <string name="okay">Okay</string>
+    <string name="graph">Graph depicting stock values</string>
+</resources>

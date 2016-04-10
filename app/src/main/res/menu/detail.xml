@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/open"
+        android:orderInCategory="99"
+        android:title="@string/open" />
+    <item
+        android:id="@+id/close"
+        android:orderInCategory="99"
+        android:title="@string/close" />
+    <item
+        android:id="@+id/high"
+        android:orderInCategory="99"
+        android:title="@string/high" />
+    <item
+        android:id="@+id/low"
+        android:orderInCategory="99"
+        android:title="@string/low" />
+
+</menu>
