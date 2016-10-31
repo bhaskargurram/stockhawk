@@ -1,3 +1,4 @@
+# StockHawk
 A stock price details application as a part of the Android Nanodegree course where a normal incomplete fragmentary application was provided<br/>
 Tasks Completed by me:<br/>
 • Handled corner cases<br/>
